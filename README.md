@@ -1,2 +1,2 @@
-# Week3_day6_Ch
+# Week3_day6_Chal
 Challenge
